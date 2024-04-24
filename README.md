@@ -1,27 +1,12 @@
-### Hi there, I'm Jean👋
+## Hi there, I'm Jean👋
 
 I am a software developer specializing in Backend.
 
-Languages and Tools:
-
-  Backend: 
-    - Python
-    - SQL
-    - Docker
-    - Kubernetes
-  
-  Frontend:
-    - Javascript
-    - HTML
-    - CSS
-    - Bootstrap
-    - Tailwind
-  
-  Cloud:
-    - AWS
-  
-  OS:
-    - Windows, Linux
+### Languages and Tools:
+  - Backend: Python, SQL, Docker, Kubernetes
+  - Frontend: Javascript, HTML, CSS, Bootstrap, Tailwind
+  - Cloud: AWS
+  - OS: Windows, Linux
 
 <!--
 **jeanvegadev/jeanvegadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
