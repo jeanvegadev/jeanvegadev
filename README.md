@@ -5,7 +5,7 @@ I am a software developer specializing in Backend.
 ### Languages and Tools:
   - Backend: Python, SQL, Django, Docker, Kubernetes
   - Frontend: Javascript, HTML, CSS, Bootstrap, Tailwind
-  - Cloud: AWS
+  - Cloud: AWS, Azure
   - OS: Windows, Linux
 
 <!--
